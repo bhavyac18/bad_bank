@@ -1,12 +1,17 @@
 # BAD BANK
  Welcome to BAD Bank, an easy banking application
 ## Description
-
+This applications helps to create an account, Sign in to account, deposit amount, withdraw amount etc 
 ## Installation Guidelines
 
 
 ## Technology used
-
+<ul>
+ <li>ReactJS
+ </li>
+ <li>NodeJS</li>
+ <li>MongoDB</li>
+</ul>
 ## Features
 
 ## License
