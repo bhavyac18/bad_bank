@@ -1,5 +1,5 @@
 # BAD BANK
-
+ Welcome to BAD Bank, an easy banking application
 ## Description
 
 ## Installation Guidelines
